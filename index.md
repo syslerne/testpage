@@ -8,3 +8,8 @@ Testing everything and nothing
 
 
 ![an image alt text]({{ site.baseurl }}/images/pictest.jpeg "an image title")
+
+
+- Mads
+- er
+- et item
