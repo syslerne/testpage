@@ -7,3 +7,5 @@ categories: jekyll update
 ## Epic
 
 Check this out
+
+![an image alt text]({{ site.baseurl }}/images/pictest.jpeg "an image title")
